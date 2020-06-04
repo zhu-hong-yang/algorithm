@@ -7,7 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./Leetcode/C++/test.cpp)|Easy|
+|1|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)| [Java](./Leetcode/Java/020-有效的括号/020.md)|Easy|
 
 
 
